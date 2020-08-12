@@ -16,7 +16,7 @@
     "dateformat": "^3.0.2",
     "mocha": "^2.2.5",
     "nan": "^2.8.0",
-    "node-gyp": "^3.6.2",
+    "node-gyp": "^7.1.0",
     "should": "^13.2.1"
   },
   "repository": {
