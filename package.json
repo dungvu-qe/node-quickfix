@@ -13,7 +13,7 @@
     "email": "kermen.deol@electronifie.com"
   },
   "devDependencies": {
-    "dateformat": "^3.0.2",
+    "dateformat": "^4.2.2",
     "mocha": "^2.2.5",
     "nan": "^2.8.0",
     "node-gyp": "^3.6.2",
